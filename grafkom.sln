@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grafkom", "grafkom\grafkom.vcxproj", "{9E6BC805-CAB7-403F-9657-E7D01141B27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E6BC805-CAB7-403F-9657-E7D01141B27B}.Debug|x64.ActiveCfg = Debug|x64
+		{9E6BC805-CAB7-403F-9657-E7D01141B27B}.Debug|x64.Build.0 = Debug|x64
+		{9E6BC805-CAB7-403F-9657-E7D01141B27B}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E6BC805-CAB7-403F-9657-E7D01141B27B}.Debug|x86.Build.0 = Debug|Win32
+		{9E6BC805-CAB7-403F-9657-E7D01141B27B}.Release|x64.ActiveCfg = Release|x64
+		{9E6BC805-CAB7-403F-9657-E7D01141B27B}.Release|x64.Build.0 = Release|x64
+		{9E6BC805-CAB7-403F-9657-E7D01141B27B}.Release|x86.ActiveCfg = Release|Win32
+		{9E6BC805-CAB7-403F-9657-E7D01141B27B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92598BD8-471E-4B17-A44E-8905FCB36EAD}
+	EndGlobalSection
+EndGlobal
